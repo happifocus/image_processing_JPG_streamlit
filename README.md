@@ -6,14 +6,6 @@ Users can upload an image, adjust parameters using interactive sliders, and down
 in both JPG and PNG formats.
 
 
-## Table of Contents
-- [Features](#features)
-- [Dependencies](#dependencies)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
-
 ## Features
 - Bilateral filter strength adjustment
 - Color saturation control
