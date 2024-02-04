@@ -28,7 +28,7 @@ Ensure you have the following dependencies installed:
 - [Pillow (PIL)](https://pillow.readthedocs.io/)
 - [NumPy](https://numpy.org/)
 - [ImageIO](https://pypi.org/project/imageio/)
-- [OpenCV](https://docs.opencv.org/)
+- [OpenCV](https://opencv.org/get-started/)
 
 You can install them using the provided `requirements.txt` file.
 
