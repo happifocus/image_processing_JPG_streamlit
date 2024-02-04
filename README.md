@@ -27,7 +27,7 @@ Ensure you have the following dependencies installed:
 - [Streamlit](https://streamlit.io/)
 - [Pillow (PIL)](https://pillow.readthedocs.io/)
 - [NumPy](https://numpy.org/)
-- [ImageIO](https://imageio.readthedocs.io/)
+- [ImageIO](https://pypi.org/project/imageio/)
 - [OpenCV](https://docs.opencv.org/)
 
 You can install them using the provided `requirements.txt` file.
