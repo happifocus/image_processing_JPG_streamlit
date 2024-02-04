@@ -28,19 +28,19 @@ You can install them using the provided `requirements.txt` file.
 
  ### 1. Clone the repository:
 
-   git clone https://github.com/happifocus/image_processing_JPG_streamlit.git          
-   
-   cd image_processing_JPG_streamlit
+   `git clone https://github.com/happifocus/image_processing_JPG_streamlit.git`
+         
+   `cd image_processing_JPG_streamlit`
 
 ### 2. Install dependencies:
 
-   pip install -r requirements.txt
+   `pip install -r requirements.txt`
 
 ## Usage
 
 Run the app using the following command:
 
-   streamlit run img_app.py
+   `streamlit run img_app.py`
 
 Visit the provided URL in your web browser to access the app.
 
