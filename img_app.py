@@ -107,9 +107,9 @@ def main():
 
         # Column 1: create sliders for Bilateral Filter and Saturation
         bilateral_strength = col1.slider("###### :heavy_check_mark: :blue[Bilateral Filter Strength] (preset = 5)", min_value=0, max_value=15, value=5, key='bilateral')
-        saturation_factor = col1.slider("###### :heavy_check_mark: :blue[Color Saturation] (preset = 1.05)", min_value=0.1, max_value=1.5, step=0.05, value=1.05, key='saturation')
+        saturation_factor = col1.slider("###### :heavy_check_mark: :blue[Color Saturation] (preset = 1.1)", min_value=0.0, max_value=2.0, step=0.05, value=1.1, key='saturation')
         # Column 2: create sliders for CLAHE and Sharpening
-        clahe_clip_limit = col2.slider("###### :heavy_check_mark: :blue[CLAHE Clip Limit] (preset = 0.3)", min_value=0.1, max_value=3.0, value=0.3, step=0.05, key='clahe')
+        clahe_clip_limit = col2.slider("###### :heavy_check_mark: :blue[CLAHE Clip Limit] (preset = 0.35)", min_value=0.1, max_value=3.0, value=0.35, step=0.05, key='clahe')
         sharpening_kernel_size = col2.slider("###### :heavy_check_mark: :blue[Sharpening Kernel Size] (preset = 3)", min_value=1, max_value=9, step=2, value=3, key='sharpen')
         
         
